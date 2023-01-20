@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del curso de Henry
+Este proyecto es una prueba de como crear un repositorio en gitub y como clonarlo a mi computadora
